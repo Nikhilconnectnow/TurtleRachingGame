@@ -1,7 +1,7 @@
 # TurtleRachingGame
 ![image](https://github.com/Nikhilconnectnow/TurtleRacingGame/assets/171763911/f5114d9b-0c39-4898-991c-8d9b5ed71c81)
-
-Certainly! Here's a comprehensive README.md for your Turtle Racing Game project:
+Play on Replit
+You can also play the Turtle Racing Game directly on Replit: (https://replit.com/@nikhilconnectno/Turtle-Raching#main.py)
 
 ```markdown
 # Turtle Racing Game
