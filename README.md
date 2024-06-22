@@ -6,8 +6,6 @@ Certainly! Here's a comprehensive README.md for your Turtle Racing Game project:
 ```markdown
 # Turtle Racing Game
 
-![Turtle Racing Game](https://example.com/your-game-screenshot.png)
-
 Welcome to the Turtle Racing Game! This project simulates a fun and interactive racing game using Python's Turtle graphics module. Players can choose their turtle and watch it compete against others in a thrilling race to the finish line.
 
 ## Features
